@@ -2,6 +2,11 @@ package com.dicoding.kotlin
 
 fun main(){
     var nama:String? = null
-    print("Hello $nama")
-    print(nama?.length)
+    println("Hello $nama")
+    println(nama?.length)
+
+    var string: String? = "Dicoding"
+    if(string != null) { // smart cast
+        println(string.length) // It works now!
+    }
 }
