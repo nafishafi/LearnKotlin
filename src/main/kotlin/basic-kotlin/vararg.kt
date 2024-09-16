@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 // Variabel Argument (Vararg)
 //Dengan  vararg sebuah fungsi dapat memiliki jumlah parameter

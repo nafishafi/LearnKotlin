@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 fun main() {
     val ranges = 1..5

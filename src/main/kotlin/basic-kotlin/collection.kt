@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 fun main(){
     val integerList = listOf(4,2,1,3.4) // boleh sama (List)

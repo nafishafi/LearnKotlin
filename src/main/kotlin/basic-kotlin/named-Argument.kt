@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 //  Dengan ini, kita tak perlu lagi menghafal posisi dari sebuah parameter.
 fun main() {

@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 fun main(){
     val listOfInt = arrayOf(1,2,3,5)

@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 
 fun main(){
     val intArray = intArrayOf(1, 3, 5, 7)  // [1, 3, 5, 7]

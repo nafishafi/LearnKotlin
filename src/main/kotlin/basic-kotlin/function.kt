@@ -1,4 +1,4 @@
-package com.dicoding.kotlin
+package com.dicoding.kotlin.`basic-kotlin`
 //    fun functionName(param1: Type1, param2: Type2, ...): ReturnType {
 //        return result
 //    }
