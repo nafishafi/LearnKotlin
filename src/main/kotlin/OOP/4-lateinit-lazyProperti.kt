@@ -7,6 +7,7 @@ package OOP
 //    print(name?.length)
 //}
 
+// DIGUNAKAN KETIKA INGIN VARIABEL TIDAK PUNYA NILAI AWAL
 //Hal yang perlu diperhatikan adalah lateinit harus disandingkan dengan keyword var
 //(tidak bisa menggunakan val)
 //lateinit var name: String
