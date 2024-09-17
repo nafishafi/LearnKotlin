@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 fun main() {
     val someString = "Dicoding"

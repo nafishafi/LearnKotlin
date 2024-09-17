@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 // Interface sangat mirip dengan abstract class, namun tanpa sebuah properti deklarasi dan fungsi yang dideklarasikan tanpa isi.
 //  Pada umumnya penamaan sebuah interface dituliskan dengan awalan huruf I kapital.  (IFly)

@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 // Class -> blueprint
 // Untuk membuat obejek

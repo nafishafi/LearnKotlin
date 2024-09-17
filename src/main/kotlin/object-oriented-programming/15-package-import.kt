@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 import kotlin.math.PI
 import kotlin.math.cos as cosinus

@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 class Animal5(name: String, weight: Double, age: Int) {
     val name: String

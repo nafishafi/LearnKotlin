@@ -1,4 +1,4 @@
-package oop
+package `object-oriented-programming`
 
 import kotlin.reflect.KProperty
 
