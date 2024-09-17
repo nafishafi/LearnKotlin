@@ -17,6 +17,7 @@ abstract class Animal9(var name: String, var weight: Double, var age: Int, var i
     }
 }
 
-fun main(){
-    val animal = Animal9("dicoding animal", 2.6, 1, true)
-}
+//fun main(){
+//    val animal = Animal9("dicoding animal", 2.6, 1, true)
+//}
+// Output: cannot create an instance of an abstract class
