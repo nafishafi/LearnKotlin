@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 // HAK AKSES
 // Public, private, protected, internal

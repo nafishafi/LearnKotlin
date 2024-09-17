@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 // Kotlin memungkinkan kita untuk menambahkan sebuah fungsi baru pada sebuah kelas tanpa harus
 // mewarisi kelas tersebut.

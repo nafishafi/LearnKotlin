@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 // getter = pengambilan
 // setter = penyetel

@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 // Seperti namanya, abstract merupakan gambaran umum dari sebuah kelas.
 // Ia tidak dapat direalisasikan dalam sebuah objek.

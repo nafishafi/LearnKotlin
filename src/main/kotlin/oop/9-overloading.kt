@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 // OVERLOADING
 // Overloading merupakan kondisi di mana kita bisa membuat 2 (dua) atau lebih fungsi yang memiliki jumlah, tipe, atau urutan parameter yang berbeda di dalam sebuah class.
