@@ -1,4 +1,4 @@
-package `specialclass-collection`
+package `special-class-collection`
 
 // SPECIAL CLASS
 // 1. Data Class: dirancang khusus untuk menyimpan data. Otomatis terdapat fungsi equals(), hashCode(), toString(), dan copy().
