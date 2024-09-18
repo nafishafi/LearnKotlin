@@ -2,6 +2,7 @@ package `special-class-collection`
 
 // List tidak bisa di manipulasi seperti add, remove, change data didalamnya
 // Jika ingin list yang bisa di manipulasi maka gunakan mutableList
+// Pada Mutable Set kita bisa menambah dan menghapus item namun tak bisa mengubah nilai seperti pada List.
 
 
 fun main() {
