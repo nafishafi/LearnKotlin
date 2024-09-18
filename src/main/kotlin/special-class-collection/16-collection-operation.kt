@@ -48,4 +48,14 @@ fun main() {
     val total = numberList.sum()
     println(total)
 
+//  ==============
+//  sorted()
+
+//  Secara default fungsi sorted() ini akan mengurutkan data secara ascending (baha-atas)
+    val kotlinChar = listOf('k', 'o', 't', 'l', 'i', 'n')
+    val ascendingSort = kotlinChar.sorted()
+    println(ascendingSort)
+
+    val descendingSort = kotlinChar.sortedDescending()
+    println(descendingSort)
 }
