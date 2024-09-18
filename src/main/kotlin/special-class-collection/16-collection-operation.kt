@@ -40,8 +40,12 @@ fun main() {
 
 //  jika kita menambahkan kondisi padahal kondisi tersebut tidak terpenuhi, apa hasilnya? Exception!
 
-    val moreThan10 = numberList.first { it > 10 }
-    print(moreThan10)
-//  test
+//    val moreThan10 = numberList.first { it > 10 }
+//    print(moreThan10)
+
+//  ==============
+//  sum()
+    val total = numberList.sum()
+    println(total)
 
 }
