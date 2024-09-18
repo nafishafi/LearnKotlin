@@ -42,5 +42,6 @@ fun main() {
 
     val moreThan10 = numberList.first { it > 10 }
     print(moreThan10)
+//  test
 
 }
