@@ -35,5 +35,12 @@ fun main() {
 
 //  lastOrNull() -> Mencari item terakhir
 
+//  ================
+//  first() & last()
+
+//  jika kita menambahkan kondisi padahal kondisi tersebut tidak terpenuhi, apa hasilnya? Exception!
+
+    val moreThan10 = numberList.first { it > 10 }
+    print(moreThan10)
 
 }
