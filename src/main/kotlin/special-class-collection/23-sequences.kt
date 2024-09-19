@@ -3,7 +3,7 @@ package `special-class-collection`
 // Misalnya Anda mempunyai collection dengan jumlah data 10 atau 100 , itu mungkin tidak akan memberi
 // pengaruh besar terhadap performa program. Namun apa yang terjadi jika data yang ada pada collection
 // mencapai ratusan ribu atau jutaan? Waktu proses pada sebuah program akan bertambah signifikan jika semua datanya harus dievaluasi.
-
+// LAZY EVALUATION
 
 //fun main() {
 //    val list = (1..10000).toList()
