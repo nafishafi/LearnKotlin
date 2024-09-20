@@ -12,9 +12,17 @@ fun main() {
     println("result : $result")
 
 //  With
+//  Fungsi with sendiri disarankan untuk mengakses apa yang menjadi anggotanya tanpa harus menyediakan nilai kembalian.
     val message = "Hello Kotlin!"
     val resultWith = with(message) {
         println("value is $this")
         println("with length ${this.length}")
     }
+    val resultWith2 = with(message) {
+        "First character is ${this[0]}" +
+                " and last character is ${this[this.length - 1]}"
+    }
+    println(resultWith2)
+
+
 }
