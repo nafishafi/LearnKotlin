@@ -10,4 +10,11 @@ fun main() {
         "replace text from $from to $to"
     }
     println("result : $result")
+
+//  With
+    val message = "Hello Kotlin!"
+    val resultWith = with(message) {
+        println("value is $this")
+        println("with length ${this.length}")
+    }
 }
