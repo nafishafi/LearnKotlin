@@ -13,6 +13,7 @@ fun main() {
 
 //  With
 //  Fungsi with sendiri disarankan untuk mengakses apa yang menjadi anggotanya tanpa harus menyediakan nilai kembalian.
+    println("================")
     val message = "Hello Kotlin!"
     val resultWith = with(message) {
         println("value is $this")
@@ -24,5 +25,24 @@ fun main() {
     }
     println(resultWith2)
 
+//  Apply
+//  Fungsi apply adalah nilai dari konteks objeknya dan objek konteksnya tersedia sebagai receiver (this)
+
+//  SEBELUM
+    println("================")
+    val builder = StringBuilder()
+    builder.append("Hello ")
+    builder.append("Kotlin!")
+
+    println(builder.toString())
+
+//  SESUDAH
+    println("================")
+    val messageApply = StringBuilder().apply {
+        append("Hello ")
+        append("Apply!")
+    }
+
+    println(messageApply.toString())
 
 }
