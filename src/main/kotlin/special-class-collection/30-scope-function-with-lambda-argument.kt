@@ -26,4 +26,16 @@ fun main() {
         val text = "message is null"
         println(text)
     }
+
+//  ALSO
+//    Fungsi also sama seperti fungsi apply, di mana nilai yang dikembalikan adalah nilai dari konteks objek.
+//    Namun untuk konteks objeknya tersedia sebagai argumen (it).
+
+//   noted: Fungsi also baiknya digunakan ketika kita ingin menggunakan konteks dari objek sebagai argumen tanpa harus mengubah nilainya.
+    val textAlso = "Hello Kotlin"
+    val result = textAlso.also {
+        println("value length -> ${it.length}")
+    }
+
+    println("text -> $result")
 }
