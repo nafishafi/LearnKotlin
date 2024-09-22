@@ -21,3 +21,5 @@ fun main() = runBlocking(CoroutineName("main")) {
 
 // Kesimpulannya, channels memungkinkan komunikasi yang aman antar kode concurrent. Ia membuat kode concurrent dapat berkomunikasi
 // dengan mengirim dan menerima pesan tanpa harus peduli di thread mana coroutine berjalan.
+
+// PUSH
